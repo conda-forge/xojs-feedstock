@@ -1,5 +1,5 @@
 context:
-  version: "0.60.0"
+  version: "1.0.4"
 
 package:
   name: xojs
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/xo/-/xo-${{ version }}.tgz
-  sha256: 233a00ce9d29f5a4ad38234f55ce013c6313ea7df47987aa6dd66c49b6b74121
+  sha256: 932451ce8b3fefa2175b170410a52b4de4bfa073f539383e808e29c87cca0c98
 
 build:
   number: 0
